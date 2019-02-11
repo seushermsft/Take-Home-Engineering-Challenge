@@ -20,7 +20,7 @@ This can be a project of your own or a substantial pull request on a third party
 
 ## The Problem
 
-Getting around large cities can be quite a hassle, and New York City is no exception. One thing that helos, is being able to predict how long a trip might take and how much that trip might cost. Luckily, NYC provides public data about transportation which includes all of the metrics we need!
+Getting around large cities can be quite a hassle, and New York City is no exception. One thing that helps, is being able to predict how long a trip might take and how much that trip might cost. Luckily, NYC provides public data about transportation which includes all of the metrics we need!
 
 Your assignment, is to help us quickly look at transportation fare data for tips between different boroughs in NYC so that when we travel there, it is easier for us to get around.
 
