@@ -33,6 +33,7 @@ The only requirements for the assignment are:
 3. We can filter based on datetime.
 4. The returned data shows some interesting metrics that will help us get around.
 5. Your code is well-tested.
+6. Documentation is provided for how to build and run your code.
 
 Feel free to tackle this problem in a way that demonstrates your expertise of an area -- or takes you out of your comfort zone. For example, if you build Web APIs by day and want to build a frontend to the problem or a completely different language instead, by all means go for it - learning is a core competency in our group. Let us know this context in your solution's documentation.
 
