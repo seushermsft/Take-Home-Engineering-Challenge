@@ -1,0 +1,7 @@
+- if flash.present?
+  - flash.each do |name, msg|
+    - unless name.to_s == 'timedout'
+      .notification.is-marginless class=flash_class(name.to_sym)
+        button.delete
+        = msg
+      br
