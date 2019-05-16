@@ -18,6 +18,11 @@ However, in this project I am still aiming to provide:
 - Reasonable code coverage
 - CI
 
+Other Decisions that I'd like to point out:
+
+- I like minitest over rspec
+- I usually use Bootstrap but I want to try out [Bulma](https://bulma.io) for this challenge
+
 ## Setup
 
 - Clone repository
