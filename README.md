@@ -33,3 +33,17 @@ $ rails db:create db:setup
 ```bash
 $ rails s
 ```
+
+### Testing
+
+```bash
+$ rubocop
+$ brakeman
+$ rails test
+$ rails test:system
+```
+
+Running the system tests on a Windows (WSL) machine requires a little bit of hoop jumping:
+- Comment out webdrivers in Gemfile
+- - The WSL is a little too good at hiding the fact that we're on windows, so it's a difficult to detect inside the gemfile. Thinking about it now I wonder if we could look for a windows specific file on the FS to detect this.
+- Follow [This](http://ngauthier.com/2017/09/rails-system-tests-with-headless-chrome-on-windows-bash-wsl.html)

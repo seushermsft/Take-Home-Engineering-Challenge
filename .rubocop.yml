@@ -1,0 +1,7 @@
+AllCops:
+  Exclude:
+    - 'bin/*'
+    - 'test/**'
+
+Metrics:
+  Enabled: false
