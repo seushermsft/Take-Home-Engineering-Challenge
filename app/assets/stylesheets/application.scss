@@ -14,4 +14,27 @@
  *= require_self
  */
 
-@import "bulma";
+@import 'variables';
+
+@import 'font-awesome';
+@import 'bulma';
+
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai|Roboto');
+
+html {
+  background-color: $beige;
+  color: $wenge;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.brand {
+  font-family: 'Baloo Bhai', cursive;
+  font-size: 1.5em;
+
+  * {
+    padding-right: 0.25em;
+  }
+}

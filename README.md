@@ -1,6 +1,6 @@
 # Take Home Engineering Challenge
 
-## triphelper.nyc
+## :oncoming_taxi: triphelper.nyc
 
 ![Build Status](https://travis-ci.com/zinefer/Take-Home-Engineering-Challenge.svg?branch=master)
 
@@ -22,6 +22,12 @@ Other Decisions that I'd like to point out:
 
 - I like minitest over rspec
 - I usually use Bootstrap but I want to try out [Bulma](https://bulma.io) for this challenge
+
+
+### Branding
+
+[Color palette](https://coolors.co/ffdd57-fe5f55-d6d1b1-c7efcf-eef5db)
+[Fonts](https://fonts.google.com/specimen/Baloo+Bhai?selection.family=Baloo+Bhai|Roboto)
 
 ## Setup
 
