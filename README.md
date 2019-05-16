@@ -2,6 +2,8 @@
 
 ## triphelper.nyc
 
+![Build Status](https://travis-ci.com/zinefer/Take-Home-Engineering-Challenge.svg?branch=master)
+
 I am going to use Ruby and Rails on this project due to the extreme time constraint. Rails will allow me to leverage a ton of web application convention to speed up my development. However, 3 hours is not much time to put all the skills I've gained over the past 8 years on display. As such, I am going to relax these of my development processies for this challenge:
 
 - Third party code should be audited for activity, number of issues and any of _their_ dependancies to determine project health before including them in your own work

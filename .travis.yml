@@ -1,0 +1,21 @@
+language: ruby
+
+bundler_args: --without production
+
+env:
+  global:
+    - RAILS_ENV=test
+
+addons:
+  chrome: stable
+
+before_script:
+  - bundle exec rake db:create
+
+script:
+  - bundle exec rubocop
+  - bundle exec brakeman
+  - bundle exec rails db:migrate
+  - bundle exec rake assets:precompile
+  - bundle exec rake test
+  - bundle exec rake test:system
