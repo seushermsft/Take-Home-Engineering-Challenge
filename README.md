@@ -39,4 +39,4 @@ Feel free to tackle this problem in a way that demonstrates your expertise of an
 
 New York City transportation data is [located here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page). We've included a copy of the [Jan 2018 data](https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip) as well.
 
-Good luck! Please send a link to your solution on Github back to us at least 12 hours before your interview so we can review it before we speak.
+Good luck! Please send a link to your solution on Github before the day of your interview so we can review it.
