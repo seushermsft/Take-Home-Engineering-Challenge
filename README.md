@@ -13,7 +13,7 @@ Unzip NYC transport data in root path and Set up Python virtual environment:
 https://cseboulderinterview.blob.core.windows.net/triprecord/tripdata.zip
 ```
 
-###Set up virtual environment
+### Set up virtual environment
 
  ```python
 mkvirtualenv -p python3.6.5 takeHomeChallenge
